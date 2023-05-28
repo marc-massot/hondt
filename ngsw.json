@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1685255860754,
+  "timestamp": 1685264030607,
   "index": "/hondt/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/hondt/favicon.ico",
         "/hondt/index.html",
         "/hondt/main.97f5ae3552943b0e.js",
         "/hondt/manifest.webmanifest",
@@ -29,32 +28,23 @@
         "ignoreVary": true
       },
       "urls": [
-        "/hondt/assets/icons/icon-128x128.png",
-        "/hondt/assets/icons/icon-144x144.png",
-        "/hondt/assets/icons/icon-152x152.png",
-        "/hondt/assets/icons/icon-192x192.png",
-        "/hondt/assets/icons/icon-384x384.png",
-        "/hondt/assets/icons/icon-512x512.png",
-        "/hondt/assets/icons/icon-72x72.png",
-        "/hondt/assets/icons/icon-96x96.png"
+        "/hondt/assets/icons/apple-icon-180.png",
+        "/hondt/assets/icons/favicon-196.png",
+        "/hondt/assets/icons/manifest-icon-192.maskable.png",
+        "/hondt/assets/icons/manifest-icon-512.maskable.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/hondt/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "/hondt/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "/hondt/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "/hondt/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "/hondt/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/hondt/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/hondt/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "/hondt/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "/hondt/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/hondt/index.html": "a1990058fe43e3e1ebc56badc655f5a962e1fa1e",
+    "/hondt/assets/icons/apple-icon-180.png": "d36e570608aaa0e1342b1c7a711cfd10002519b7",
+    "/hondt/assets/icons/favicon-196.png": "829b684ffb0d0181f1424290434361cc408cefb3",
+    "/hondt/assets/icons/manifest-icon-192.maskable.png": "d8db736d8420dea2a97013168a83e20ee9454606",
+    "/hondt/assets/icons/manifest-icon-512.maskable.png": "0b3bb71dd1705feb5c2b60d5536752d7fa3f5ea6",
+    "/hondt/index.html": "b9ee0361038410f2c4cb5322d496ecf86ca3691b",
     "/hondt/main.97f5ae3552943b0e.js": "e58063c11efe6617a28008db3874559d1fe261bc",
-    "/hondt/manifest.webmanifest": "e39decb9e84dfaeaacc9fbf694535846474c83d3",
+    "/hondt/manifest.webmanifest": "48a7484798bc49b5327651a4ad99005fffece7bc",
     "/hondt/polyfills.553668d76411ebf8.js": "3382ff5a404c48b225d39c39b135659577addf47",
     "/hondt/runtime.83052a7e6d7a0dd7.js": "349268dc470ced14f4740807e041938e8f1dac21",
     "/hondt/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
